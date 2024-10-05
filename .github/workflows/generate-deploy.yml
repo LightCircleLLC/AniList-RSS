@@ -9,7 +9,8 @@ on:
   workflow_dispatch:  # Allows manual trigger from GitHub UI
 
 env:
-  USERNAME: ${{ vars.USERNAME }}
+  USERNAME: Reisonancia
+  PER_PAGE: 20
 
 jobs:
   build:
@@ -29,14 +30,27 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
 
-    - name: Generate feeds and deploy
+    - name: Generate feeds
       run: |
         python script.py
 
-    - name: Commit generated feeds
+    - name: Commit generated anime feeds
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add feeds/*.xml
-        git commit -m "Update RSS feeds"
-        git push
+        git add feeds/Anime\ Feeds/*.xml
+        git commit -m "Update Anime Feeds"
+
+    - name: Commit generated manga feeds
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add feeds/Manga\ Feeds/*.xml
+        git commit -m "Update Manga Feeds"
+
+    - name: Push changes
+      env:
+        TOKEN: ${{ secrets.GH_TOKEN }}
+      run: |
+        git remote set-url origin https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/LightCircleLLC/AniList-RSS.git
+        git push origin main
