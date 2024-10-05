@@ -48,6 +48,12 @@ jobs:
         git add "Manga Feeds/*.xml"
         git commit -m "Update Manga Feeds" || echo "No changes to commit"
 
+    - name: Debugging
+      run: |
+        echo "Current remote URL:"
+        git remote -v
+        echo "ACCESS_TOKEN: $ACCESS_TOKEN"
+
     - name: Set Git remote with access token
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
