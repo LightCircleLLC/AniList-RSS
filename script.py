@@ -72,23 +72,29 @@ def generate_feed(userActivity, media_type, feed_name, perPage):
     activities = []
 
     for activity in userActivity['data']['Page']['activities']:
+        activity_type = activity.get('type')
+        print(f"Checking activity type: {activity_type}")  # Debug: Print activity type
+        print(f"Checking activity: {activity}")  # Debug: Print the full activity
+
         # Check if the activity type matches the specified media type
-        if activity.get('type') != media_type:
-            continue  # Skip this activity if it doesn't match
+        if activity_type == media_type:
+            print(f"Match found for {media_type}: {activity}")  # Debug: Print matching activity
 
-        if not activity.get('progress'):
-            title = f"{username} {activity.get('status')} {activity['media']['title'].get(media_title)}"
-        else:
-            title = f"{username} {activity.get('status')} {activity.get('progress')} of {activity['media']['title'].get(media_title)}"
+            # Construct title based on progress
+            if not activity.get('progress'):
+                title = f"{username} {activity.get('status')} {activity['media']['title'].get(media_title)}"
+            else:
+                title = f"{username} {activity.get('status')} {activity.get('progress')} of {activity['media']['title'].get(media_title)}"
 
-        item = {
-            'title': title,
-            'pubDate': datetime.datetime.fromtimestamp(activity.get('createdAt'), tz=datetime.timezone.utc),
-            'link': activity.get('siteUrl')
-        }
-        activities.append(item)
+            # Create item
+            item = {
+                'title': title,
+                'pubDate': datetime.datetime.fromtimestamp(activity.get('createdAt'), tz=datetime.timezone.utc),
+                'link': activity.get('siteUrl')
+            }
+            activities.append(item)
 
-    print(f"Found {len(activities)} activities for {media_type}.")  # Debug: Count of activities found
+    print(f"Found {len(activities)} activities.")  # Debug: Count of activities found
 
     # Define the output directory based on feed name
     folder_name = 'Anime Feeds' if feed_name == 'anime' else 'Manga Feeds'
@@ -124,5 +130,5 @@ userId = r.get('data').get('User').get('id')
 userActivity = listActivity(userId, perPage)
 
 # Generate separate feeds for anime and manga
-generate_feed(userActivity, 'ANIME', 'anime', perPage)
-generate_feed(userActivity, 'MANGA', 'manga', perPage)
+generate_feed(userActivity, 'ANIME_LIST', 'anime', perPage)
+generate_feed(userActivity, 'MANGA_LIST', 'manga', perPage)
