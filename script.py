@@ -71,31 +71,17 @@ def generate_feed(userActivity, media_type, feed_name, perPage):
     media_title = 'romaji'
     activities = []
 
-    # Debug: Print the userActivity structure
-    print("User Activity Structure:", userActivity)
-
     for activity in userActivity['data']['Page']['activities']:
-        activity_type = activity.get('type')
-        print(f"Checking activity type: {activity_type}")  # Debug: Print activity type
-        print(f"Checking activity: {activity}")  # Debug: Print the full activity
-
-        # Check if the activity type matches the specified media type
-        if activity_type == media_type:
-            print(f"Match found for {media_type}: {activity}")  # Debug: Print matching activity
-
-            # Construct title based on progress
-            if not activity.get('progress'):
-                title = f"{username} {activity.get('status')} {activity['media']['title'].get(media_title)}"
-            else:
-                title = f"{username} {activity.get('status')} {activity.get('progress')} of {activity['media']['title'].get(media_title)}"
-
-            # Create item
-            item = {
-                'title': title,
-                'pubDate': datetime.datetime.fromtimestamp(activity.get('createdAt'), tz=datetime.timezone.utc),
-                'link': activity.get('siteUrl')
-            }
-            activities.append(item)
+        if not activity.get('progress'):
+            title = f"{username} {activity.get('status')} {activity['media']['title'].get(media_title)}"
+        else:
+            title = f"{username} {activity.get('status')} {activity.get('progress')} of {activity['media']['title'].get('romaji')}"
+        item = {
+            'title': title,
+            'pubDate': datetime.datetime.fromtimestamp(activity.get('createdAt'), tz=datetime.timezone.utc),
+            'link': activity.get('siteUrl')
+        }
+        activities.append(item)
 
     print(f"Found {len(activities)} activities.")  # Debug: Count of activities found
 
