@@ -58,8 +58,8 @@ def listActivity(userId, perPage):
     '''
 
     variables = {
-        'userId': 6906173,
-        'perPage': 20
+        'userId': userId,
+        'perPage': perPage
     }
 
     response = requests.post(url, json={'query': query, 'variables': variables})
@@ -70,12 +70,21 @@ def listActivity(userId, perPage):
 def generate_feed(userActivity, media_type, feed_name, perPage):
     media_title = 'romaji'
     activities = []
+    
+    # Debug: Print the userActivity structure
+    print("User Activity Structure:", userActivity)
+
     for activity in userActivity['data']['Page']['activities']:
+        print(f"Checking activity type: {activity.get('type')}")  # Debug: Print activity type
+
         if activity.get('type') == media_type:
+            # Construct title based on progress
             if not activity.get('progress'):
                 title = f"{username} {activity.get('status')} {activity['media']['title'].get(media_title)}"
             else:
-                title = f"{username} {activity.get('status')} {activity.get('progress')} of {activity['media']['title'].get('romaji')}"
+                title = f"{username} {activity.get('status')} {activity.get('progress')} of {activity['media']['title'].get(media_title)}"
+                
+            # Create item
             item = {
                 'title': title,
                 'pubDate': datetime.datetime.fromtimestamp(activity.get('createdAt'), tz=datetime.timezone.utc),
@@ -127,5 +136,3 @@ userActivity = listActivity(userId, perPage)
 # Generate separate feeds for anime and manga
 generate_feed(userActivity, 'ANIME', 'anime', perPage)
 generate_feed(userActivity, 'MANGA', 'manga', perPage)
-
-print(userId)
