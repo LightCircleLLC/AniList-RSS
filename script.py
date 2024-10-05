@@ -34,6 +34,8 @@ def getUserID(name):
 
 
 def listActivity(userId, perPage):
+    userID = 6906173
+
     query = '''
     query ($userId: Int, $perPage: Int) {
       Page(page: 1, perPage:$perPage) {
