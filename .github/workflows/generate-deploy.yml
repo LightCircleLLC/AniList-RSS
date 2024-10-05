@@ -38,15 +38,15 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add feeds/Anime\ Feeds/*.xml
-        git commit -m "Update Anime Feeds"
+        git add "feeds/Anime Feeds/*.xml"
+        git commit -m "Update Anime Feeds" || echo "No changes to commit"
 
     - name: Commit generated manga feeds
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add feeds/Manga\ Feeds/*.xml
-        git commit -m "Update Manga Feeds"
+        git add "feeds/Manga Feeds/*.xml"
+        git commit -m "Update Manga Feeds" || echo "No changes to commit"
 
     - name: Push changes
       env:
