@@ -10,7 +10,7 @@ env = Environment(loader=FileSystemLoader(templates_dir))
 
 username = os.getenv('USERNAME', '')
 link = os.getenv('LINK', '')
-perPage = os.getenv('PER_PAGE', 10)
+perPage = os.getenv('PER_PAGE', 20)
 
 url = 'https://graphql.anilist.co'
 
@@ -64,7 +64,18 @@ def listActivity(userId, perPage):
 
     response = requests.post(url, json={'query': query, 'variables': variables})
 
-    return (response.json())
+    # Check for errors or unexpected responses
+    if response.status_code != 200:
+        print(f"Error: Received status code {response.status_code}")
+        print(response.text)
+        return None
+
+    data = response.json()
+    if 'errors' in data:
+        print(f"Error in API response: {data['errors']}")
+        return None
+
+    return data
 
 
 def generate_feed(userActivity, media_type, feed_name, perPage):
