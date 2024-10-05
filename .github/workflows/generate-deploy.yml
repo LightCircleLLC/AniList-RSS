@@ -31,3 +31,11 @@ jobs:
     - name: Generate feeds and deploy
       run: |
         python script.py
+
+    - name: Commit generated feeds
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add feeds/*.xml
+        git commit -m "Update RSS feeds"
+        git push
