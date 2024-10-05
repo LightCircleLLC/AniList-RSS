@@ -8,7 +8,7 @@ root = os.path.dirname(os.path.abspath(__file__))
 templates_dir = os.path.join(root, 'templates')
 env = Environment(loader=FileSystemLoader(templates_dir))
 
-username = os.getenv('USERNAME', '')
+username = "Reisonancia"
 link = os.getenv('LINK', '')
 perPage = os.getenv('PER_PAGE', 20)
 
