@@ -63,7 +63,6 @@ def listActivity(userId, perPage):
     }
 
     response = requests.post(url, json={'query': query, 'variables': variables})
-    print(response)  # Print the raw response for debugging
 
     return (response.json())
 
@@ -83,6 +82,7 @@ def generate_feed(userActivity, media_type, feed_name, perPage):
                 'link': activity.get('siteUrl')
             }
             activities.append(item)
+            print(activities)  # Print the raw response for debugging
 
     # Define the output directory based on feed name
     if feed_name == 'anime':
