@@ -83,10 +83,24 @@ def generate_feed(userActivity, media_type, feed_name, perPage):
             }
             activities.append(item)
 
+    # Define the output directory based on feed name
+    if feed_name == 'anime':
+        folder_name = 'Anime Feeds'
+    elif feed_name == 'manga':
+        folder_name = 'Manga Feeds'
+    else:
+        raise ValueError("Invalid feed name")
+
     filename = f"anilist-{feed_name}-{perPage}.xml"
-    filename_dir = os.path.join(root, 'feeds', filename)
-    os.makedirs(os.path.dirname(filename_dir), exist_ok=True)
-    print(link, filename)
+    # Set filename_dir to point to the correct folders directly
+    filename_dir = os.path.join(folder_name, filename)
+    
+    # Make sure the directory exists
+    os.makedirs(folder_name, exist_ok=True)
+    
+    print(f"Saving feed to: {filename_dir}")
+    
+    # Write the RSS feed to the file
     with open(filename_dir, "w") as fh:
         fh.write(
             rss_py.build(
