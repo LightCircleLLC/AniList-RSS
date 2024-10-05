@@ -52,7 +52,7 @@ jobs:
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       run: |
-        git remote set-url origin https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/LightCircleLLC/AniList-RSS.git
+        git remote set-url origin https://${{ secrets.ACCESS_TOKEN }}@github.com/LightCircleLLC/AniList-RSS.git
 
     - name: Push changes
       run: |
