@@ -63,6 +63,7 @@ def listActivity(userId, perPage):
     }
 
     response = requests.post(url, json={'query': query, 'variables': variables})
+    print(response)  # Print the raw response for debugging
 
     return (response.json())
 
