@@ -37,12 +37,6 @@ jobs:
       run: |
         python script.py
 
-    - name: Check generated files
-      run: |
-        echo "Generated files:"
-        cat anilist-anime-20.xml  # Check content of anime file
-        cat anilist-manga-20.xml  # Check content of manga file
-
     - name: Commit generated anime feeds
       run: |
         git config --local user.email "action@github.com"

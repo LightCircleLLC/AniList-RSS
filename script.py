@@ -8,9 +8,9 @@ root = os.path.dirname(os.path.abspath(__file__))
 templates_dir = os.path.join(root, 'templates')
 env = Environment(loader=FileSystemLoader(templates_dir))
 
-username = "Reisonancia"
-link = os.getenv('LINK', '')
-perPage = os.getenv('PER_PAGE', 20)
+username = 'Reisonancia'
+link = 'https://github.com/LightCircleLLC/AniList-RSS'
+perPage = 20
 
 url = 'https://graphql.anilist.co'
 
