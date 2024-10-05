@@ -41,19 +41,17 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add "Anime Feeds/*.xml"
+        git add "Anime Feeds/anilist-anime-20.xml"
         git commit -m "Update Anime Feeds" || echo "No changes to commit"
 
     - name: Commit generated manga feeds
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add "Manga Feeds/*.xml"
+        git add "Manga Feeds/anilist-manga-20.xml"
         git commit -m "Update Manga Feeds" || echo "No changes to commit"
 
     - name: Set Git remote with access token
-      env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       run: |
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/LightCircleLLC/AniList-RSS.git
 
