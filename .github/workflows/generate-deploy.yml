@@ -8,6 +8,9 @@ on:
     - cron: '0 * * * *'  # Run every hour
   workflow_dispatch:  # Allows manual trigger from GitHub UI
 
+permissions:
+  contents: write  # Needed for pushing changes to the repository
+
 env:
   USERNAME: Reisonancia
   PER_PAGE: 20
@@ -52,7 +55,7 @@ jobs:
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       run: |
-        git remote set-url origin https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/LightCircleLLC/AniList-RSS.git
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/LightCircleLLC/AniList-RSS.git
 
     - name: Push changes
       run: |
