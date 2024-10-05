@@ -70,21 +70,24 @@ def listActivity(userId, perPage):
 def generate_feed(userActivity, media_type, feed_name, perPage):
     media_title = 'romaji'
     activities = []
-    
+
     # Debug: Print the userActivity structure
     print("User Activity Structure:", userActivity)
 
     for activity in userActivity['data']['Page']['activities']:
-        print(f"Checking activity type: {activity.get('type')}")  # Debug: Print activity type
+        activity_type = activity.get('type')
+        print(f"Checking activity type: {activity_type}")  # Debug: Print activity type
 
         # Check if the activity type matches the specified media type
-        if activity.get('type') == media_type:
+        if activity_type == media_type:
+            print(f"Match found for {media_type}: {activity}")  # Debug: Print matching activity
+
             # Construct title based on progress
             if not activity.get('progress'):
                 title = f"{username} {activity.get('status')} {activity['media']['title'].get(media_title)}"
             else:
                 title = f"{username} {activity.get('status')} {activity.get('progress')} of {activity['media']['title'].get(media_title)}"
-                
+
             # Create item
             item = {
                 'title': title,
@@ -96,21 +99,16 @@ def generate_feed(userActivity, media_type, feed_name, perPage):
     print(f"Found {len(activities)} activities.")  # Debug: Count of activities found
 
     # Define the output directory based on feed name
-    if feed_name == 'anime':
-        folder_name = 'Anime Feeds'
-    elif feed_name == 'manga':
-        folder_name = 'Manga Feeds'
-    else:
-        raise ValueError("Invalid feed name")
+    folder_name = 'Anime Feeds' if feed_name == 'anime' else 'Manga Feeds'
 
     filename = f"anilist-{feed_name}-{perPage}.xml"
     filename_dir = os.path.join(folder_name, filename)
-    
+
     # Make sure the directory exists
     os.makedirs(folder_name, exist_ok=True)
-    
+
     print(f"Saving feed to: {filename_dir}")
-    
+
     # Write the RSS feed to the file
     with open(filename_dir, "w") as fh:
         fh.write(
@@ -124,6 +122,7 @@ def generate_feed(userActivity, media_type, feed_name, perPage):
                 items=activities
             )
         )
+
 
 
 
