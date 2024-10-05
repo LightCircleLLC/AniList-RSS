@@ -52,7 +52,11 @@ jobs:
       run: |
         echo "Current remote URL:"
         git remote -v
-        echo "ACCESS_TOKEN: $ACCESS_TOKEN"
+        if [ -z "${{ secrets.ACCESS_TOKEN }}" ]; then
+           echo "ACCESS_TOKEN is not set."
+        else
+          echo "ACCESS_TOKEN is set."
+        fi
 
     - name: Set Git remote with access token
       env:
