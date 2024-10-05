@@ -136,3 +136,60 @@ userActivity = listActivity(userId, perPage)
 # Generate separate feeds for anime and manga
 generate_feed(userActivity, 'ANIME', 'anime', perPage)
 generate_feed(userActivity, 'MANGA', 'manga', perPage)
+
+
+#New code to check for other things
+def check_user_activity(activities, activity_type):
+    # Initialize a list to hold the filtered activities
+    filtered_activities = []
+
+    for activity in activities:
+        if activity.get('type') == activity_type:
+            media_title = activity['media']['title']['romaji']
+            site_url = activity['siteUrl']
+            # Check for progress and status, if applicable
+            progress = activity.get('progress', 'N/A')
+            status = activity['status']
+            created_at = datetime.fromtimestamp(activity['createdAt']).isoformat()
+
+            # Add the activity to the list
+            filtered_activities.append({
+                'title': media_title,
+                'url': site_url,
+                'progress': progress,
+                'status': status,
+                'created_at': created_at,
+            })
+
+    return filtered_activities
+
+def save_activities_to_xml(activities, filename):
+    root = ET.Element('activities')
+    for activity in activities:
+        activity_element = ET.SubElement(root, 'activity')
+        for key, value in activity.items():
+            child = ET.SubElement(activity_element, key)
+            child.text = str(value)
+
+    tree = ET.ElementTree(root)
+    tree.write(filename, encoding='utf-8', xml_declaration=True)
+
+# Assuming you've defined your activity retrieval logic
+user_activity = get_user_activity()  # Function to fetch user activity
+activities = user_activity['data']['Page']['activities']
+
+# Check for anime activities
+anime_activities = check_user_activity(activities, 'ANIME_LIST')
+if anime_activities:
+    print(f"Found {len(anime_activities)} anime activities.")
+    save_activities_to_xml(anime_activities, 'Anime Feeds/anilist-anime.xml')
+else:
+    print("No anime activities found.")
+
+# Check for manga activities
+manga_activities = check_user_activity(activities, 'MANGA_LIST')
+if manga_activities:
+    print(f"Found {len(manga_activities)} manga activities.")
+    save_activities_to_xml(manga_activities, 'Anime Feeds/anilist-manga.xml')
+else:
+    print("No manga activities found.")
