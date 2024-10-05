@@ -7,6 +7,9 @@ on:
   schedule:
     - cron: '0 * * * *'  # Run every hour
 
+env:
+  USERNAME: ${{ vars.USERNAME }}
+
 jobs:
   build:
     name: Build and Deploy
