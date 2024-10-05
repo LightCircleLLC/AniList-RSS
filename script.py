@@ -58,8 +58,8 @@ def listActivity(userId, perPage):
     '''
 
     variables = {
-        'userId': userId,
-        'perPage': perPage
+        'userId': 6906173,
+        'perPage': 20
     }
 
     response = requests.post(url, json={'query': query, 'variables': variables})
@@ -118,9 +118,8 @@ def generate_feed(userActivity, media_type, feed_name, perPage):
 
 
 # Get user ID
-#r = getUserID(username)
-#userId = r.get('data').get('User').get('id')
-userId = 6906173
+r = getUserID(username)
+userId = r.get('data').get('User').get('id')
 
 # Get user activity
 userActivity = listActivity(userId, perPage)
@@ -128,3 +127,5 @@ userActivity = listActivity(userId, perPage)
 # Generate separate feeds for anime and manga
 generate_feed(userActivity, 'ANIME', 'anime', perPage)
 generate_feed(userActivity, 'MANGA', 'manga', perPage)
+
+print(userId)
