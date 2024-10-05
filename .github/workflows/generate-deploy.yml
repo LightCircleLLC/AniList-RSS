@@ -48,21 +48,11 @@ jobs:
         git add "Manga Feeds/*.xml"
         git commit -m "Update Manga Feeds" || echo "No changes to commit"
 
-    - name: Debugging
-      run: |
-        echo "Current remote URL:"
-        git remote -v
-        if [ -z "${{ secrets.ACCESS_TOKEN }}" ]; then
-           echo "ACCESS_TOKEN is not set."
-        else
-          echo "ACCESS_TOKEN is set."
-        fi
-
     - name: Set Git remote with access token
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       run: |
-        git remote set-url origin https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/LightCircleLLC/AniList-RSS.git
+        git remote set-url origin https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/LightCircleLLC/AniList-RSS
 
     - name: Push changes
       run: |
