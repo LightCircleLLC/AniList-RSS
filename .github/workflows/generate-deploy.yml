@@ -50,7 +50,7 @@ jobs:
 
     - name: Push changes
       env:
-        TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       run: |
         git remote set-url origin https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/LightCircleLLC/AniList-RSS.git
         git push origin main
