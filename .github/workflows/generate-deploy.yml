@@ -41,15 +41,21 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add "anilist-anime-20.xml"
+        git add "Anime Feeds/anilist-anime-20.xml"
         git commit -m "Update Anime Feeds" || echo "No changes to commit"
 
     - name: Commit generated manga feeds
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add "anilist-manga-20.xml"
+        git add "Manga Feeds/anilist-manga-20.xml"
         git commit -m "Update Manga Feeds" || echo "No changes to commit"
+
+    - name: Check generated files
+      run: |
+        echo "Generated files:"
+        cat Anime Feeds/anilist-anime-20.xml  # Check content of anime file
+        cat Manga Feeds/anilist-manga-20.xml  # Check content of manga file
 
     - name: Set Git remote with access token
       run: |
