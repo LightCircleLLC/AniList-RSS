@@ -77,6 +77,7 @@ def generate_feed(userActivity, media_type, feed_name, perPage):
     for activity in userActivity['data']['Page']['activities']:
         activity_type = activity.get('type')
         print(f"Checking activity type: {activity_type}")  # Debug: Print activity type
+        print(f"Checking activity: {activity}")  # Debug: Print the full activity
 
         # Check if the activity type matches the specified media type
         if activity_type == media_type:
@@ -122,8 +123,6 @@ def generate_feed(userActivity, media_type, feed_name, perPage):
                 items=activities
             )
         )
-
-
 
 
 # Get user ID
