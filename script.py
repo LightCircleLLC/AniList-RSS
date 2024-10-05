@@ -82,7 +82,8 @@ def generate_feed(userActivity, media_type, feed_name, perPage):
                 'link': activity.get('siteUrl')
             }
             activities.append(item)
-            print(activities)  # Print the raw response for debugging
+
+    print(f"Found {len(activities)} activities.")  # Debug: Count of activities found
 
     # Define the output directory based on feed name
     if feed_name == 'anime':
