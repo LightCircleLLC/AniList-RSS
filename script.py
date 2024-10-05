@@ -34,8 +34,6 @@ def getUserID(name):
 
 
 def listActivity(userId, perPage):
-    userId = 6906173
-
     query = '''
     query ($userId: Int, $perPage: Int) {
       Page(page: 1, perPage:$perPage) {
@@ -120,8 +118,9 @@ def generate_feed(userActivity, media_type, feed_name, perPage):
 
 
 # Get user ID
-r = getUserID(username)
-userId = r.get('data').get('User').get('id')
+#r = getUserID(username)
+#userId = r.get('data').get('User').get('id')
+userId = 6906173
 
 # Get user activity
 userActivity = listActivity(userId, perPage)
