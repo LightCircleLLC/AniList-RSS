@@ -49,8 +49,8 @@ def listActivity(userId, perPage):
                 english
                 native
               }
+              siteUrl
             }
-            siteUrl
           }
         }
       }
