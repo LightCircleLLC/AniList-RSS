@@ -87,7 +87,7 @@ def generate_feed(userActivity, media_type, feed_name, perPage):
             item = {
                 'title': title,
                 'pubDate': datetime.datetime.fromtimestamp(activity.get('createdAt'), tz=datetime.timezone.utc),
-                'link': activity.get('siteUrl')
+                'link': activity['media'].get('siteUrl')  # Access the siteUrl from the media object
             }
             activities.append(item)
 
