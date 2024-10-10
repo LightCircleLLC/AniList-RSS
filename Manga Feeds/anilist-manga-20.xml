@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList manga activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Thu, 10 Oct 2024 04:09:31 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 05:07:58 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-manga-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia read chapter 6 of Love Live! Sunshine!!: School idol diary</title>
+            <link>https://anilist.co/manga/137355</link>
+            <pubDate>Thu, 10 Oct 2024 04:40:01 +0000</pubDate>
+            <guid>https://anilist.co/manga/137355</guid>
+        </item>
         <item>
             <title>Reisonancia read chapter 5 of Love Live! Sunshine!!: School idol diary</title>
             <link>https://anilist.co/manga/137355</link>
@@ -95,12 +101,6 @@
             <title>Reisonancia read chapter 8 of Love Live! Sunshine!!</title>
             <link>https://anilist.co/manga/97385</link>
             <pubDate>Mon, 23 Sep 2024 19:14:56 +0000</pubDate>
-            <guid>https://anilist.co/manga/97385</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 7 of Love Live! Sunshine!!</title>
-            <link>https://anilist.co/manga/97385</link>
-            <pubDate>Mon, 23 Sep 2024 05:53:42 +0000</pubDate>
             <guid>https://anilist.co/manga/97385</guid>
         </item>
     </channel>
