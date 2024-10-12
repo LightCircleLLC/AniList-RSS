@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Sat, 12 Oct 2024 04:08:53 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 12 Oct 2024 05:07:10 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia watched episode 1 of Love Live! Superstar!! 3rd Season</title>
+            <link>https://anilist.co/anime/155502</link>
+            <pubDate>Sat, 12 Oct 2024 04:30:48 +0000</pubDate>
+            <guid>https://anilist.co/anime/155502</guid>
+        </item>
         <item>
             <title>Reisonancia watched episode 6 of Blue Archive The Animation</title>
             <link>https://anilist.co/anime/160589</link>
@@ -36,12 +42,6 @@
             <link>https://anilist.co/anime/182255</link>
             <pubDate>Sat, 05 Oct 2024 04:45:56 +0000</pubDate>
             <guid>https://anilist.co/anime/182255</guid>
-        </item>
-        <item>
-            <title>Reisonancia plans to watch Arknights: Reimei Zensou</title>
-            <link>https://anilist.co/anime/140660</link>
-            <pubDate>Fri, 04 Oct 2024 07:14:15 +0000</pubDate>
-            <guid>https://anilist.co/anime/140660</guid>
         </item>
     </channel>
 </rss>
