@@ -5,7 +5,7 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList manga activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Fri, 18 Oct 2024 05:08:06 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 06:11:15 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-manga-20.xml" rel="self" type="application/rss+xml" />
         <item>
             <title>Reisonancia read chapter 6 of Mankitsu Shitai Jouren-san</title>
@@ -89,12 +89,6 @@
             <title>Reisonancia read chapter 14 of BanG Dream! Garupa☆Pico Comic Anthology  </title>
             <link>https://anilist.co/manga/122753</link>
             <pubDate>Sun, 13 Oct 2024 05:30:54 +0000</pubDate>
-            <guid>https://anilist.co/manga/122753</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 13 of BanG Dream! Garupa☆Pico Comic Anthology  </title>
-            <link>https://anilist.co/manga/122753</link>
-            <pubDate>Sun, 13 Oct 2024 04:20:19 +0000</pubDate>
             <guid>https://anilist.co/manga/122753</guid>
         </item>
     </channel>
