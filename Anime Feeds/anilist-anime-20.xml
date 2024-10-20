@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Sun, 20 Oct 2024 08:10:16 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 20 Oct 2024 09:07:04 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia plans to watch Bocchi the Rock!</title>
+            <link>https://anilist.co/anime/130003</link>
+            <pubDate>Sun, 20 Oct 2024 08:50:57 +0000</pubDate>
+            <guid>https://anilist.co/anime/130003</guid>
+        </item>
         <item>
             <title>Reisonancia completed Blue Archive The Animation</title>
             <link>https://anilist.co/anime/160589</link>
@@ -18,12 +24,6 @@
             <link>https://anilist.co/anime/160589</link>
             <pubDate>Fri, 18 Oct 2024 04:44:49 +0000</pubDate>
             <guid>https://anilist.co/anime/160589</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 2 of Love Live! Superstar!! 3rd Season</title>
-            <link>https://anilist.co/anime/155502</link>
-            <pubDate>Tue, 15 Oct 2024 01:24:58 +0000</pubDate>
-            <guid>https://anilist.co/anime/155502</guid>
         </item>
     </channel>
 </rss>
