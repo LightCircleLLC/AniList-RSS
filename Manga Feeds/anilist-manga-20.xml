@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList manga activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Thu, 24 Oct 2024 21:07:04 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 22:07:25 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-manga-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia read chapter 28 of Mankitsu Shitai Jouren-san</title>
+            <link>https://anilist.co/manga/170601</link>
+            <pubDate>Thu, 24 Oct 2024 21:14:03 +0000</pubDate>
+            <guid>https://anilist.co/manga/170601</guid>
+        </item>
         <item>
             <title>Reisonancia read chapter 27 of Mankitsu Shitai Jouren-san</title>
             <link>https://anilist.co/manga/170601</link>
@@ -78,12 +84,6 @@
             <link>https://anilist.co/manga/122753</link>
             <pubDate>Tue, 22 Oct 2024 03:55:25 +0000</pubDate>
             <guid>https://anilist.co/manga/122753</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 16 of Mankitsu Shitai Jouren-san</title>
-            <link>https://anilist.co/manga/170601</link>
-            <pubDate>Mon, 21 Oct 2024 07:00:13 +0000</pubDate>
-            <guid>https://anilist.co/manga/170601</guid>
         </item>
     </channel>
 </rss>
