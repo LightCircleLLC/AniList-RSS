@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList manga activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Fri, 25 Oct 2024 06:11:09 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2024 07:07:54 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-manga-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia read chapter 29 of Mankitsu Shitai Jouren-san</title>
+            <link>https://anilist.co/manga/170601</link>
+            <pubDate>Fri, 25 Oct 2024 06:56:53 +0000</pubDate>
+            <guid>https://anilist.co/manga/170601</guid>
+        </item>
         <item>
             <title>Reisonancia read chapter 28 of Mankitsu Shitai Jouren-san</title>
             <link>https://anilist.co/manga/170601</link>
@@ -59,24 +65,6 @@
             <title>Reisonancia read chapter 20 of Mankitsu Shitai Jouren-san</title>
             <link>https://anilist.co/manga/170601</link>
             <pubDate>Tue, 22 Oct 2024 18:28:43 +0000</pubDate>
-            <guid>https://anilist.co/manga/170601</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 19 of Mankitsu Shitai Jouren-san</title>
-            <link>https://anilist.co/manga/170601</link>
-            <pubDate>Tue, 22 Oct 2024 04:11:02 +0000</pubDate>
-            <guid>https://anilist.co/manga/170601</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 18 of Mankitsu Shitai Jouren-san</title>
-            <link>https://anilist.co/manga/170601</link>
-            <pubDate>Tue, 22 Oct 2024 04:05:53 +0000</pubDate>
-            <guid>https://anilist.co/manga/170601</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 17 of Mankitsu Shitai Jouren-san</title>
-            <link>https://anilist.co/manga/170601</link>
-            <pubDate>Tue, 22 Oct 2024 04:02:50 +0000</pubDate>
             <guid>https://anilist.co/manga/170601</guid>
         </item>
     </channel>
