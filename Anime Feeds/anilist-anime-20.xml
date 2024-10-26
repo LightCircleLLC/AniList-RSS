@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Sat, 26 Oct 2024 05:07:15 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2024 06:09:54 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia watched episode 9 of BanG Dream! 3rd Season</title>
+            <link>https://anilist.co/anime/101634</link>
+            <pubDate>Sat, 26 Oct 2024 05:40:01 +0000</pubDate>
+            <guid>https://anilist.co/anime/101634</guid>
+        </item>
         <item>
             <title>Reisonancia watched episode 8 of BanG Dream! Garupa☆Pico</title>
             <link>https://anilist.co/anime/101632</link>
@@ -53,18 +59,6 @@
             <title>Reisonancia watched episode 3 of BanG Dream! Garupa☆Pico</title>
             <link>https://anilist.co/anime/101632</link>
             <pubDate>Wed, 23 Oct 2024 04:26:52 +0000</pubDate>
-            <guid>https://anilist.co/anime/101632</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 2 of BanG Dream! Garupa☆Pico</title>
-            <link>https://anilist.co/anime/101632</link>
-            <pubDate>Tue, 22 Oct 2024 04:30:27 +0000</pubDate>
-            <guid>https://anilist.co/anime/101632</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 1 of BanG Dream! Garupa☆Pico</title>
-            <link>https://anilist.co/anime/101632</link>
-            <pubDate>Tue, 22 Oct 2024 04:23:20 +0000</pubDate>
             <guid>https://anilist.co/anime/101632</guid>
         </item>
     </channel>
