@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Tue, 29 Oct 2024 05:08:07 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 06:11:34 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia watched episode 10 of BanG Dream! 3rd Season</title>
+            <link>https://anilist.co/anime/101634</link>
+            <pubDate>Tue, 29 Oct 2024 05:25:25 +0000</pubDate>
+            <guid>https://anilist.co/anime/101634</guid>
+        </item>
         <item>
             <title>Reisonancia watched episode 9 of BanG Dream! 3rd Season</title>
             <link>https://anilist.co/anime/101634</link>
@@ -41,12 +47,6 @@
             <title>Reisonancia watched episode 8 of BanG Dream! 3rd Season</title>
             <link>https://anilist.co/anime/101634</link>
             <pubDate>Thu, 24 Oct 2024 22:30:51 +0000</pubDate>
-            <guid>https://anilist.co/anime/101634</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 7 of BanG Dream! 3rd Season</title>
-            <link>https://anilist.co/anime/101634</link>
-            <pubDate>Wed, 23 Oct 2024 04:36:22 +0000</pubDate>
             <guid>https://anilist.co/anime/101634</guid>
         </item>
     </channel>
