@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList manga activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Sat, 02 Nov 2024 00:36:06 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 02 Nov 2024 02:08:32 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-manga-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia read chapter 5 of BanG Dream!: Star Beat</title>
+            <link>https://anilist.co/manga/108184</link>
+            <pubDate>Sat, 02 Nov 2024 02:04:25 +0000</pubDate>
+            <guid>https://anilist.co/manga/108184</guid>
+        </item>
         <item>
             <title>Reisonancia read chapter 4 of BanG Dream!: Star Beat</title>
             <link>https://anilist.co/manga/108184</link>
