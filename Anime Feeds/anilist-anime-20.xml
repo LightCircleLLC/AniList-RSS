@@ -5,7 +5,7 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Mon, 04 Nov 2024 20:08:14 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 04 Nov 2024 21:06:02 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
         <item>
             <title>Reisonancia watched episode 4 of Love Live! Superstar!! 3rd Season</title>
@@ -35,12 +35,6 @@
             <title>Reisonancia watched episode 10 of BanG Dream! 3rd Season</title>
             <link>https://anilist.co/anime/101634</link>
             <pubDate>Tue, 29 Oct 2024 05:25:25 +0000</pubDate>
-            <guid>https://anilist.co/anime/101634</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 9 of BanG Dream! 3rd Season</title>
-            <link>https://anilist.co/anime/101634</link>
-            <pubDate>Sat, 26 Oct 2024 05:40:01 +0000</pubDate>
             <guid>https://anilist.co/anime/101634</guid>
         </item>
     </channel>
