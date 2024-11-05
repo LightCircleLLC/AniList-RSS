@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList manga activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Tue, 05 Nov 2024 00:36:16 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 02:08:26 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-manga-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia completed BanG Dream!: Star Beat</title>
+            <link>https://anilist.co/manga/108184</link>
+            <pubDate>Tue, 05 Nov 2024 00:40:39 +0000</pubDate>
+            <guid>https://anilist.co/manga/108184</guid>
+        </item>
         <item>
             <title>Reisonancia read chapter 11 of BanG Dream!: Star Beat</title>
             <link>https://anilist.co/manga/108184</link>
@@ -89,12 +95,6 @@
             <title>Reisonancia read chapter 34 of Mankitsu Shitai Jouren-san</title>
             <link>https://anilist.co/manga/170601</link>
             <pubDate>Sun, 27 Oct 2024 19:46:22 +0000</pubDate>
-            <guid>https://anilist.co/manga/170601</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 33 of Mankitsu Shitai Jouren-san</title>
-            <link>https://anilist.co/manga/170601</link>
-            <pubDate>Sun, 27 Oct 2024 19:44:04 +0000</pubDate>
             <guid>https://anilist.co/manga/170601</guid>
         </item>
     </channel>
