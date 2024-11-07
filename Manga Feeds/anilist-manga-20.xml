@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList manga activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Thu, 07 Nov 2024 07:07:30 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 08:10:25 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-manga-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia read chapter 4 of Date A Live</title>
+            <link>https://anilist.co/manga/67163</link>
+            <pubDate>Thu, 07 Nov 2024 08:02:18 +0000</pubDate>
+            <guid>https://anilist.co/manga/67163</guid>
+        </item>
         <item>
             <title>Reisonancia read chapter 3 of Date A Live</title>
             <link>https://anilist.co/manga/67163</link>
@@ -96,12 +102,6 @@
             <link>https://anilist.co/manga/108184</link>
             <pubDate>Thu, 31 Oct 2024 02:38:34 +0000</pubDate>
             <guid>https://anilist.co/manga/108184</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 36 of Mankitsu Shitai Jouren-san</title>
-            <link>https://anilist.co/manga/170601</link>
-            <pubDate>Tue, 29 Oct 2024 07:12:23 +0000</pubDate>
-            <guid>https://anilist.co/manga/170601</guid>
         </item>
     </channel>
 </rss>
