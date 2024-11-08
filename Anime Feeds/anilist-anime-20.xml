@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Fri, 08 Nov 2024 05:07:35 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 06:11:30 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia watched episode 9 of BanG Dream! Garupa☆Pico</title>
+            <link>https://anilist.co/anime/101632</link>
+            <pubDate>Fri, 08 Nov 2024 05:41:01 +0000</pubDate>
+            <guid>https://anilist.co/anime/101632</guid>
+        </item>
         <item>
             <title>Reisonancia watched episode 4 of Love Live! Superstar!! 3rd Season</title>
             <link>https://anilist.co/anime/155502</link>
@@ -17,18 +23,6 @@
             <title>Reisonancia completed BanG Dream! 3rd Season</title>
             <link>https://anilist.co/anime/101634</link>
             <pubDate>Fri, 01 Nov 2024 05:50:14 +0000</pubDate>
-            <guid>https://anilist.co/anime/101634</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 12 of BanG Dream! 3rd Season</title>
-            <link>https://anilist.co/anime/101634</link>
-            <pubDate>Wed, 30 Oct 2024 03:20:52 +0000</pubDate>
-            <guid>https://anilist.co/anime/101634</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 11 of BanG Dream! 3rd Season</title>
-            <link>https://anilist.co/anime/101634</link>
-            <pubDate>Wed, 30 Oct 2024 02:55:50 +0000</pubDate>
             <guid>https://anilist.co/anime/101634</guid>
         </item>
     </channel>
