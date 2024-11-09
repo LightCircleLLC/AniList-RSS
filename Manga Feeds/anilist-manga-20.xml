@@ -5,8 +5,20 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList manga activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Fri, 08 Nov 2024 23:07:58 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 09 Nov 2024 00:35:24 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-manga-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia read chapter 2 of Date A Origami</title>
+            <link>https://anilist.co/manga/72139</link>
+            <pubDate>Sat, 09 Nov 2024 00:06:11 +0000</pubDate>
+            <guid>https://anilist.co/manga/72139</guid>
+        </item>
+        <item>
+            <title>Reisonancia read chapter 1 of Date A Origami</title>
+            <link>https://anilist.co/manga/72139</link>
+            <pubDate>Sat, 09 Nov 2024 00:03:33 +0000</pubDate>
+            <guid>https://anilist.co/manga/72139</guid>
+        </item>
         <item>
             <title>Reisonancia plans to read Date A Origami</title>
             <link>https://anilist.co/manga/72139</link>
@@ -89,18 +101,6 @@
             <title>Reisonancia read chapter 6 of BanG Dream!: Star Beat</title>
             <link>https://anilist.co/manga/108184</link>
             <pubDate>Sun, 03 Nov 2024 04:24:54 +0000</pubDate>
-            <guid>https://anilist.co/manga/108184</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 5 of BanG Dream!: Star Beat</title>
-            <link>https://anilist.co/manga/108184</link>
-            <pubDate>Sat, 02 Nov 2024 02:04:25 +0000</pubDate>
-            <guid>https://anilist.co/manga/108184</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 4 of BanG Dream!: Star Beat</title>
-            <link>https://anilist.co/manga/108184</link>
-            <pubDate>Fri, 01 Nov 2024 20:40:00 +0000</pubDate>
             <guid>https://anilist.co/manga/108184</guid>
         </item>
     </channel>
