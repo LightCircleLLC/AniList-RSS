@@ -30,7 +30,21 @@ def getUserID(name):
 
     response = requests.post(url, json={'query': query, 'variables': variables})
 
-    return (response.json())
+    # Check for HTTP errors
+    if response.status_code != 200:
+        print(f"Error: Received status code {response.status_code}")
+        print(f"Response text: {response.text}")
+        return None
+
+    data = response.json()
+    
+        # Check if 'data' and 'User' are in the response
+    if 'data' in data and 'User' in data['data']:
+        return data
+    else:
+        print("Error: 'data' or 'User' not found in response")
+        print(f"Response JSON: {data}")
+        return None
 
 
 def listActivity(userId, perPage):
@@ -121,7 +135,17 @@ def generate_feed(userActivity, media_type, feed_name, perPage):
 
 # Get user ID
 r = getUserID(username)
-userId = r.get('data').get('User').get('id')
+if r:
+    userId = r.get('data').get('User').get('id')
+    # Get user activity only if userId is successfully retrieved
+    userActivity = listActivity(userId, perPage)
+
+    # Generate separate feeds for anime and manga
+    generate_feed(userActivity, 'ANIME_LIST', 'anime', perPage)
+    generate_feed(userActivity, 'MANGA_LIST', 'manga', perPage)
+else:
+    print("Failed to retrieve user ID. Check the API response for details.")
+    
 
 # Get user activity
 userActivity = listActivity(userId, perPage)
