@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList manga activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Thu, 14 Nov 2024 17:12:37 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 18:18:20 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-manga-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia read chapter 6 of Date A Party</title>
+            <link>https://anilist.co/manga/85942</link>
+            <pubDate>Thu, 14 Nov 2024 18:06:28 +0000</pubDate>
+            <guid>https://anilist.co/manga/85942</guid>
+        </item>
         <item>
             <title>Reisonancia read chapter 5 of Date A Party</title>
             <link>https://anilist.co/manga/85942</link>
@@ -113,12 +119,6 @@
             <title>Reisonancia read chapter 4 of Date A Origami</title>
             <link>https://anilist.co/manga/72139</link>
             <pubDate>Sat, 09 Nov 2024 23:05:55 +0000</pubDate>
-            <guid>https://anilist.co/manga/72139</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 3 of Date A Origami</title>
-            <link>https://anilist.co/manga/72139</link>
-            <pubDate>Sat, 09 Nov 2024 00:36:17 +0000</pubDate>
             <guid>https://anilist.co/manga/72139</guid>
         </item>
     </channel>
