@@ -5,8 +5,32 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList manga activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Thu, 14 Nov 2024 21:12:34 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 06:33:14 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-manga-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia read chapter 2 of Date Ast Like</title>
+            <link>https://anilist.co/manga/80931</link>
+            <pubDate>Mon, 18 Nov 2024 04:54:24 +0000</pubDate>
+            <guid>https://anilist.co/manga/80931</guid>
+        </item>
+        <item>
+            <title>Reisonancia read chapter 1 of Date Ast Like</title>
+            <link>https://anilist.co/manga/80931</link>
+            <pubDate>Mon, 18 Nov 2024 04:48:52 +0000</pubDate>
+            <guid>https://anilist.co/manga/80931</guid>
+        </item>
+        <item>
+            <title>Reisonancia plans to read Date Ast Like</title>
+            <link>https://anilist.co/manga/80931</link>
+            <pubDate>Sat, 16 Nov 2024 04:10:01 +0000</pubDate>
+            <guid>https://anilist.co/manga/80931</guid>
+        </item>
+        <item>
+            <title>Reisonancia completed Date A Party</title>
+            <link>https://anilist.co/manga/85942</link>
+            <pubDate>Fri, 15 Nov 2024 02:44:27 +0000</pubDate>
+            <guid>https://anilist.co/manga/85942</guid>
+        </item>
         <item>
             <title>Reisonancia read chapter 6 of Date A Party</title>
             <link>https://anilist.co/manga/85942</link>
@@ -59,66 +83,6 @@
             <title>Reisonancia read chapter 14 of Date A Origami</title>
             <link>https://anilist.co/manga/72139</link>
             <pubDate>Mon, 11 Nov 2024 22:48:26 +0000</pubDate>
-            <guid>https://anilist.co/manga/72139</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 13 of Date A Origami</title>
-            <link>https://anilist.co/manga/72139</link>
-            <pubDate>Mon, 11 Nov 2024 22:40:55 +0000</pubDate>
-            <guid>https://anilist.co/manga/72139</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 12 of Date A Origami</title>
-            <link>https://anilist.co/manga/72139</link>
-            <pubDate>Mon, 11 Nov 2024 20:44:12 +0000</pubDate>
-            <guid>https://anilist.co/manga/72139</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 11 of Date A Origami</title>
-            <link>https://anilist.co/manga/72139</link>
-            <pubDate>Mon, 11 Nov 2024 18:30:17 +0000</pubDate>
-            <guid>https://anilist.co/manga/72139</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 10 of Date A Origami</title>
-            <link>https://anilist.co/manga/72139</link>
-            <pubDate>Mon, 11 Nov 2024 06:45:07 +0000</pubDate>
-            <guid>https://anilist.co/manga/72139</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 9 of Date A Origami</title>
-            <link>https://anilist.co/manga/72139</link>
-            <pubDate>Mon, 11 Nov 2024 06:25:52 +0000</pubDate>
-            <guid>https://anilist.co/manga/72139</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 8 of Date A Origami</title>
-            <link>https://anilist.co/manga/72139</link>
-            <pubDate>Mon, 11 Nov 2024 06:14:26 +0000</pubDate>
-            <guid>https://anilist.co/manga/72139</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 7 of Date A Origami</title>
-            <link>https://anilist.co/manga/72139</link>
-            <pubDate>Mon, 11 Nov 2024 02:48:38 +0000</pubDate>
-            <guid>https://anilist.co/manga/72139</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 6 of Date A Origami</title>
-            <link>https://anilist.co/manga/72139</link>
-            <pubDate>Sun, 10 Nov 2024 23:55:05 +0000</pubDate>
-            <guid>https://anilist.co/manga/72139</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 5 of Date A Origami</title>
-            <link>https://anilist.co/manga/72139</link>
-            <pubDate>Sun, 10 Nov 2024 05:22:37 +0000</pubDate>
-            <guid>https://anilist.co/manga/72139</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 4 of Date A Origami</title>
-            <link>https://anilist.co/manga/72139</link>
-            <pubDate>Sat, 09 Nov 2024 23:05:55 +0000</pubDate>
             <guid>https://anilist.co/manga/72139</guid>
         </item>
     </channel>
