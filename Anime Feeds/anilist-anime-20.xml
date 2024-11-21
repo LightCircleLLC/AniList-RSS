@@ -5,8 +5,20 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Thu, 21 Nov 2024 03:34:51 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 04:27:55 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia watched episode 23 of BanG Dream! Garupa☆Pico</title>
+            <link>https://anilist.co/anime/101632</link>
+            <pubDate>Thu, 21 Nov 2024 04:15:10 +0000</pubDate>
+            <guid>https://anilist.co/anime/101632</guid>
+        </item>
+        <item>
+            <title>Reisonancia watched episode 22 of BanG Dream! Garupa☆Pico</title>
+            <link>https://anilist.co/anime/101632</link>
+            <pubDate>Thu, 21 Nov 2024 04:11:52 +0000</pubDate>
+            <guid>https://anilist.co/anime/101632</guid>
+        </item>
         <item>
             <title>Reisonancia watched episode 21 of BanG Dream! Garupa☆Pico</title>
             <link>https://anilist.co/anime/101632</link>
@@ -66,12 +78,6 @@
             <link>https://anilist.co/anime/101632</link>
             <pubDate>Fri, 15 Nov 2024 06:25:00 +0000</pubDate>
             <guid>https://anilist.co/anime/101632</guid>
-        </item>
-        <item>
-            <title>Reisonancia plans to watch Date A Live II</title>
-            <link>https://anilist.co/anime/19163</link>
-            <pubDate>Wed, 13 Nov 2024 07:14:02 +0000</pubDate>
-            <guid>https://anilist.co/anime/19163</guid>
         </item>
     </channel>
 </rss>
