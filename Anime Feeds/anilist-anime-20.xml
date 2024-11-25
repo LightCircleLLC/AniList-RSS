@@ -5,8 +5,20 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Sun, 24 Nov 2024 23:22:20 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 01:52:11 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia watched episode 5 of BanG Dream! Garupa☆Pico: Oomori</title>
+            <link>https://anilist.co/anime/113906</link>
+            <pubDate>Mon, 25 Nov 2024 01:20:22 +0000</pubDate>
+            <guid>https://anilist.co/anime/113906</guid>
+        </item>
+        <item>
+            <title>Reisonancia watched episode 4 of BanG Dream! Garupa☆Pico: Oomori</title>
+            <link>https://anilist.co/anime/113906</link>
+            <pubDate>Mon, 25 Nov 2024 01:14:19 +0000</pubDate>
+            <guid>https://anilist.co/anime/113906</guid>
+        </item>
         <item>
             <title>Reisonancia watched episode 3 of BanG Dream! Garupa☆Pico: Oomori</title>
             <link>https://anilist.co/anime/113906</link>
@@ -77,18 +89,6 @@
             <title>Reisonancia watched episode 20 of BanG Dream! Garupa☆Pico</title>
             <link>https://anilist.co/anime/101632</link>
             <pubDate>Wed, 20 Nov 2024 02:46:32 +0000</pubDate>
-            <guid>https://anilist.co/anime/101632</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 19 of BanG Dream! Garupa☆Pico</title>
-            <link>https://anilist.co/anime/101632</link>
-            <pubDate>Tue, 19 Nov 2024 21:15:06 +0000</pubDate>
-            <guid>https://anilist.co/anime/101632</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 18 of BanG Dream! Garupa☆Pico</title>
-            <link>https://anilist.co/anime/101632</link>
-            <pubDate>Tue, 19 Nov 2024 00:00:45 +0000</pubDate>
             <guid>https://anilist.co/anime/101632</guid>
         </item>
     </channel>
