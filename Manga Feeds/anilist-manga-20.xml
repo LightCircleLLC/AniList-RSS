@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList manga activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Wed, 27 Nov 2024 04:27:55 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 05:22:37 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-manga-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia read chapter 9 of Date Ast Like</title>
+            <link>https://anilist.co/manga/80931</link>
+            <pubDate>Wed, 27 Nov 2024 04:28:44 +0000</pubDate>
+            <guid>https://anilist.co/manga/80931</guid>
+        </item>
         <item>
             <title>Reisonancia read chapter 8 of Date Ast Like</title>
             <link>https://anilist.co/manga/80931</link>
@@ -35,12 +41,6 @@
             <title>Reisonancia read chapter 4 of Date Ast Like</title>
             <link>https://anilist.co/manga/80931</link>
             <pubDate>Fri, 22 Nov 2024 20:02:33 +0000</pubDate>
-            <guid>https://anilist.co/manga/80931</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 3 of Date Ast Like</title>
-            <link>https://anilist.co/manga/80931</link>
-            <pubDate>Thu, 21 Nov 2024 04:42:21 +0000</pubDate>
             <guid>https://anilist.co/manga/80931</guid>
         </item>
     </channel>
