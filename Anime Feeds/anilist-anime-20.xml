@@ -5,7 +5,7 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Sat, 07 Dec 2024 05:21:53 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 07 Dec 2024 06:31:08 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
         <item>
             <title>Reisonancia watched episode 12 of BanG Dream! Garupa☆Pico Fever!</title>
@@ -113,12 +113,6 @@
             <title>Reisonancia watched episode 21 of BanG Dream! Garupa☆Pico: Oomori</title>
             <link>https://anilist.co/anime/113906</link>
             <pubDate>Sat, 30 Nov 2024 05:44:09 +0000</pubDate>
-            <guid>https://anilist.co/anime/113906</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 20 of BanG Dream! Garupa☆Pico: Oomori</title>
-            <link>https://anilist.co/anime/113906</link>
-            <pubDate>Fri, 29 Nov 2024 22:55:21 +0000</pubDate>
             <guid>https://anilist.co/anime/113906</guid>
         </item>
     </channel>
