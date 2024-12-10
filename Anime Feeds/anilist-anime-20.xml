@@ -5,8 +5,20 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Tue, 10 Dec 2024 04:28:25 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 05:23:32 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia watched episode 18 of BanG Dream! Garupa☆Pico Fever!</title>
+            <link>https://anilist.co/anime/135171</link>
+            <pubDate>Tue, 10 Dec 2024 05:22:19 +0000</pubDate>
+            <guid>https://anilist.co/anime/135171</guid>
+        </item>
+        <item>
+            <title>Reisonancia watched episode 17 of BanG Dream! Garupa☆Pico Fever!</title>
+            <link>https://anilist.co/anime/135171</link>
+            <pubDate>Tue, 10 Dec 2024 05:11:15 +0000</pubDate>
+            <guid>https://anilist.co/anime/135171</guid>
+        </item>
         <item>
             <title>Reisonancia watched episode 16 of BanG Dream! Garupa☆Pico Fever!</title>
             <link>https://anilist.co/anime/135171</link>
@@ -102,18 +114,6 @@
             <link>https://anilist.co/anime/135171</link>
             <pubDate>Mon, 02 Dec 2024 04:31:20 +0000</pubDate>
             <guid>https://anilist.co/anime/135171</guid>
-        </item>
-        <item>
-            <title>Reisonancia completed BanG Dream! Garupa☆Pico: Oomori</title>
-            <link>https://anilist.co/anime/113906</link>
-            <pubDate>Sun, 01 Dec 2024 07:40:37 +0000</pubDate>
-            <guid>https://anilist.co/anime/113906</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 25 of BanG Dream! Garupa☆Pico: Oomori</title>
-            <link>https://anilist.co/anime/113906</link>
-            <pubDate>Sun, 01 Dec 2024 04:10:08 +0000</pubDate>
-            <guid>https://anilist.co/anime/113906</guid>
         </item>
     </channel>
 </rss>
