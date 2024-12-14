@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Fri, 13 Dec 2024 23:22:10 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 14 Dec 2024 01:50:06 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia completed BanG Dream! Garupa☆Pico Fever!</title>
+            <link>https://anilist.co/anime/135171</link>
+            <pubDate>Sat, 14 Dec 2024 00:18:48 +0000</pubDate>
+            <guid>https://anilist.co/anime/135171</guid>
+        </item>
         <item>
             <title>Reisonancia watched episode 25 of BanG Dream! Garupa☆Pico Fever!</title>
             <link>https://anilist.co/anime/135171</link>
@@ -107,12 +113,6 @@
             <title>Reisonancia watched episode 9 of BanG Dream! Garupa☆Pico Fever!</title>
             <link>https://anilist.co/anime/135171</link>
             <pubDate>Fri, 06 Dec 2024 07:02:54 +0000</pubDate>
-            <guid>https://anilist.co/anime/135171</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 8 of BanG Dream! Garupa☆Pico Fever!</title>
-            <link>https://anilist.co/anime/135171</link>
-            <pubDate>Fri, 06 Dec 2024 03:40:28 +0000</pubDate>
             <guid>https://anilist.co/anime/135171</guid>
         </item>
     </channel>
