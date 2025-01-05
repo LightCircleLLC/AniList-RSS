@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Sun, 05 Jan 2025 04:25:02 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jan 2025 05:19:56 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia watched episode 9 of Bocchi the Rock!</title>
+            <link>https://anilist.co/anime/130003</link>
+            <pubDate>Sun, 05 Jan 2025 05:00:04 +0000</pubDate>
+            <guid>https://anilist.co/anime/130003</guid>
+        </item>
         <item>
             <title>Reisonancia watched episode 8 of Bocchi the Rock!</title>
             <link>https://anilist.co/anime/130003</link>
@@ -101,12 +107,6 @@
             <title>Reisonancia watched episode 6 of Love Live! Superstar!! 3rd Season</title>
             <link>https://anilist.co/anime/155502</link>
             <pubDate>Mon, 23 Dec 2024 04:36:12 +0000</pubDate>
-            <guid>https://anilist.co/anime/155502</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 5 of Love Live! Superstar!! 3rd Season</title>
-            <link>https://anilist.co/anime/155502</link>
-            <pubDate>Fri, 20 Dec 2024 21:42:48 +0000</pubDate>
             <guid>https://anilist.co/anime/155502</guid>
         </item>
     </channel>
