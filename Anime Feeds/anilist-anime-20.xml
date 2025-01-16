@@ -5,7 +5,7 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Thu, 16 Jan 2025 09:22:06 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 10:22:42 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
         <item>
             <title>Reisonancia plans to watch Yuru Yuri</title>
@@ -41,18 +41,6 @@
             <title>Reisonancia watched episode 8 of Bocchi the Rock!</title>
             <link>https://anilist.co/anime/130003</link>
             <pubDate>Sat, 04 Jan 2025 02:44:03 +0000</pubDate>
-            <guid>https://anilist.co/anime/130003</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 7 of Bocchi the Rock!</title>
-            <link>https://anilist.co/anime/130003</link>
-            <pubDate>Fri, 03 Jan 2025 04:20:16 +0000</pubDate>
-            <guid>https://anilist.co/anime/130003</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 6 of Bocchi the Rock!</title>
-            <link>https://anilist.co/anime/130003</link>
-            <pubDate>Fri, 03 Jan 2025 01:45:01 +0000</pubDate>
             <guid>https://anilist.co/anime/130003</guid>
         </item>
     </channel>
