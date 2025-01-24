@@ -5,19 +5,13 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Fri, 24 Jan 2025 05:20:38 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 06:29:47 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
         <item>
             <title>Reisonancia plans to watch Yuru Yuri</title>
             <link>https://anilist.co/anime/10495</link>
             <pubDate>Wed, 08 Jan 2025 09:30:23 +0000</pubDate>
             <guid>https://anilist.co/anime/10495</guid>
-        </item>
-        <item>
-            <title>Reisonancia completed Bocchi the Rock!</title>
-            <link>https://anilist.co/anime/130003</link>
-            <pubDate>Tue, 07 Jan 2025 05:22:08 +0000</pubDate>
-            <guid>https://anilist.co/anime/130003</guid>
         </item>
     </channel>
 </rss>
