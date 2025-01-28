@@ -5,19 +5,13 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList manga activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Tue, 28 Jan 2025 03:23:02 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 04:25:33 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-manga-20.xml" rel="self" type="application/rss+xml" />
         <item>
             <title>Reisonancia read chapter 29 of Sekai de Ichiban Oppai ga Suki!</title>
             <link>https://anilist.co/manga/100209</link>
             <pubDate>Tue, 28 Jan 2025 03:22:17 +0000</pubDate>
             <guid>https://anilist.co/manga/100209</guid>
-        </item>
-        <item>
-            <title>Reisonancia plans to read Momoiro Montage</title>
-            <link>https://anilist.co/manga/155920</link>
-            <pubDate>Tue, 28 Jan 2025 03:18:33 +0000</pubDate>
-            <guid>https://anilist.co/manga/155920</guid>
         </item>
         <item>
             <title>Reisonancia read chapter 28 of Sekai de Ichiban Oppai ga Suki!</title>
@@ -119,6 +113,12 @@
             <title>Reisonancia read chapter 12 of Sekai de Ichiban Oppai ga Suki!</title>
             <link>https://anilist.co/manga/100209</link>
             <pubDate>Wed, 15 Jan 2025 02:03:59 +0000</pubDate>
+            <guid>https://anilist.co/manga/100209</guid>
+        </item>
+        <item>
+            <title>Reisonancia read chapter 11 of Sekai de Ichiban Oppai ga Suki!</title>
+            <link>https://anilist.co/manga/100209</link>
+            <pubDate>Tue, 14 Jan 2025 02:45:50 +0000</pubDate>
             <guid>https://anilist.co/manga/100209</guid>
         </item>
     </channel>
