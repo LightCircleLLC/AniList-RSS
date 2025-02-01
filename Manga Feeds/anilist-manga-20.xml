@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList manga activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Sat, 01 Feb 2025 19:15:00 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2025 20:22:15 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-manga-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia read chapter 41 of Sekai de Ichiban Oppai ga Suki!</title>
+            <link>https://anilist.co/manga/100209</link>
+            <pubDate>Sat, 01 Feb 2025 19:23:02 +0000</pubDate>
+            <guid>https://anilist.co/manga/100209</guid>
+        </item>
         <item>
             <title>Reisonancia read chapter 40 of Sekai de Ichiban Oppai ga Suki!</title>
             <link>https://anilist.co/manga/100209</link>
@@ -113,12 +119,6 @@
             <title>Reisonancia read chapter 23 of Sekai de Ichiban Oppai ga Suki!</title>
             <link>https://anilist.co/manga/100209</link>
             <pubDate>Sun, 26 Jan 2025 06:25:18 +0000</pubDate>
-            <guid>https://anilist.co/manga/100209</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 22 of Sekai de Ichiban Oppai ga Suki!</title>
-            <link>https://anilist.co/manga/100209</link>
-            <pubDate>Sat, 25 Jan 2025 22:12:10 +0000</pubDate>
             <guid>https://anilist.co/manga/100209</guid>
         </item>
     </channel>
