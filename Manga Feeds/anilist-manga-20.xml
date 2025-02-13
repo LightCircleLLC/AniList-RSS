@@ -5,8 +5,44 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList manga activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Wed, 12 Feb 2025 23:19:32 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 01:44:24 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-manga-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia completed Sekai de Ichiban Oppai ga Suki!</title>
+            <link>https://anilist.co/manga/100209</link>
+            <pubDate>Thu, 13 Feb 2025 01:32:00 +0000</pubDate>
+            <guid>https://anilist.co/manga/100209</guid>
+        </item>
+        <item>
+            <title>Reisonancia read chapter 83 of Sekai de Ichiban Oppai ga Suki!</title>
+            <link>https://anilist.co/manga/100209</link>
+            <pubDate>Thu, 13 Feb 2025 01:29:03 +0000</pubDate>
+            <guid>https://anilist.co/manga/100209</guid>
+        </item>
+        <item>
+            <title>Reisonancia read chapter 82 of Sekai de Ichiban Oppai ga Suki!</title>
+            <link>https://anilist.co/manga/100209</link>
+            <pubDate>Thu, 13 Feb 2025 01:26:25 +0000</pubDate>
+            <guid>https://anilist.co/manga/100209</guid>
+        </item>
+        <item>
+            <title>Reisonancia read chapter 81 of Sekai de Ichiban Oppai ga Suki!</title>
+            <link>https://anilist.co/manga/100209</link>
+            <pubDate>Thu, 13 Feb 2025 01:23:58 +0000</pubDate>
+            <guid>https://anilist.co/manga/100209</guid>
+        </item>
+        <item>
+            <title>Reisonancia read chapter 80 of Sekai de Ichiban Oppai ga Suki!</title>
+            <link>https://anilist.co/manga/100209</link>
+            <pubDate>Thu, 13 Feb 2025 01:22:30 +0000</pubDate>
+            <guid>https://anilist.co/manga/100209</guid>
+        </item>
+        <item>
+            <title>Reisonancia read chapter 79 of Sekai de Ichiban Oppai ga Suki!</title>
+            <link>https://anilist.co/manga/100209</link>
+            <pubDate>Thu, 13 Feb 2025 01:20:34 +0000</pubDate>
+            <guid>https://anilist.co/manga/100209</guid>
+        </item>
         <item>
             <title>Reisonancia read chapter 78 of Sekai de Ichiban Oppai ga Suki!</title>
             <link>https://anilist.co/manga/100209</link>
@@ -53,18 +89,6 @@
             <title>Reisonancia read chapter 71 of Sekai de Ichiban Oppai ga Suki!</title>
             <link>https://anilist.co/manga/100209</link>
             <pubDate>Mon, 10 Feb 2025 13:27:46 +0000</pubDate>
-            <guid>https://anilist.co/manga/100209</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 70 of Sekai de Ichiban Oppai ga Suki!</title>
-            <link>https://anilist.co/manga/100209</link>
-            <pubDate>Sun, 09 Feb 2025 18:24:15 +0000</pubDate>
-            <guid>https://anilist.co/manga/100209</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 69 of Sekai de Ichiban Oppai ga Suki!</title>
-            <link>https://anilist.co/manga/100209</link>
-            <pubDate>Sun, 09 Feb 2025 17:00:46 +0000</pubDate>
             <guid>https://anilist.co/manga/100209</guid>
         </item>
     </channel>
