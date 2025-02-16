@@ -5,7 +5,7 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList manga activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Sun, 16 Feb 2025 07:20:48 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 08:25:12 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-manga-20.xml" rel="self" type="application/rss+xml" />
         <item>
             <title>Reisonancia read chapter 39 of Mankitsu Shitai Jouren-san</title>
@@ -65,12 +65,6 @@
             <title>Reisonancia read chapter 76 of Sekai de Ichiban Oppai ga Suki!</title>
             <link>https://anilist.co/manga/100209</link>
             <pubDate>Tue, 11 Feb 2025 18:16:07 +0000</pubDate>
-            <guid>https://anilist.co/manga/100209</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 75 of Sekai de Ichiban Oppai ga Suki!</title>
-            <link>https://anilist.co/manga/100209</link>
-            <pubDate>Tue, 11 Feb 2025 13:34:18 +0000</pubDate>
             <guid>https://anilist.co/manga/100209</guid>
         </item>
     </channel>
