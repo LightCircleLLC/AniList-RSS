@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Thu, 20 Feb 2025 04:25:50 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 05:21:22 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia plans to watch D4DJ Double Mix</title>
+            <link>https://anilist.co/anime/146321</link>
+            <pubDate>Thu, 20 Feb 2025 04:48:54 +0000</pubDate>
+            <guid>https://anilist.co/anime/146321</guid>
+        </item>
         <item>
             <title>Reisonancia completed D4DJ First Mix</title>
             <link>https://anilist.co/anime/115069</link>
