@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Fri, 28 Feb 2025 05:23:20 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 06:31:15 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia watched episode 19 of ♪D4DJ Petit Mix</title>
+            <link>https://anilist.co/anime/128563</link>
+            <pubDate>Fri, 28 Feb 2025 05:50:50 +0000</pubDate>
+            <guid>https://anilist.co/anime/128563</guid>
+        </item>
         <item>
             <title>Reisonancia watched episode 18 of ♪D4DJ Petit Mix</title>
             <link>https://anilist.co/anime/128563</link>
@@ -120,12 +126,6 @@
             <link>https://anilist.co/anime/128563</link>
             <pubDate>Sat, 22 Feb 2025 05:13:58 +0000</pubDate>
             <guid>https://anilist.co/anime/128563</guid>
-        </item>
-        <item>
-            <title>Reisonancia plans to watch D4DJ All Mix</title>
-            <link>https://anilist.co/anime/147216</link>
-            <pubDate>Sat, 22 Feb 2025 05:13:33 +0000</pubDate>
-            <guid>https://anilist.co/anime/147216</guid>
         </item>
     </channel>
 </rss>
