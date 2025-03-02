@@ -5,8 +5,20 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Sun, 02 Mar 2025 06:29:51 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 07:18:48 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia completed ♪D4DJ Petit Mix</title>
+            <link>https://anilist.co/anime/128563</link>
+            <pubDate>Sun, 02 Mar 2025 07:17:10 +0000</pubDate>
+            <guid>https://anilist.co/anime/128563</guid>
+        </item>
+        <item>
+            <title>Reisonancia watched episode 25 of ♪D4DJ Petit Mix</title>
+            <link>https://anilist.co/anime/128563</link>
+            <pubDate>Sun, 02 Mar 2025 07:14:01 +0000</pubDate>
+            <guid>https://anilist.co/anime/128563</guid>
+        </item>
         <item>
             <title>Reisonancia watched episode 24 of ♪D4DJ Petit Mix</title>
             <link>https://anilist.co/anime/128563</link>
@@ -113,18 +125,6 @@
             <title>Reisonancia watched episode 7 of ♪D4DJ Petit Mix</title>
             <link>https://anilist.co/anime/128563</link>
             <pubDate>Mon, 24 Feb 2025 14:02:49 +0000</pubDate>
-            <guid>https://anilist.co/anime/128563</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 6 of ♪D4DJ Petit Mix</title>
-            <link>https://anilist.co/anime/128563</link>
-            <pubDate>Mon, 24 Feb 2025 04:15:01 +0000</pubDate>
-            <guid>https://anilist.co/anime/128563</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 5 of ♪D4DJ Petit Mix</title>
-            <link>https://anilist.co/anime/128563</link>
-            <pubDate>Mon, 24 Feb 2025 03:45:20 +0000</pubDate>
             <guid>https://anilist.co/anime/128563</guid>
         </item>
     </channel>
