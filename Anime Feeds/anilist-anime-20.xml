@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Mon, 03 Mar 2025 19:17:46 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 20:24:42 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia watched episode 1 of D4DJ All Mix</title>
+            <link>https://anilist.co/anime/147216</link>
+            <pubDate>Mon, 03 Mar 2025 19:24:46 +0000</pubDate>
+            <guid>https://anilist.co/anime/147216</guid>
+        </item>
         <item>
             <title>Reisonancia plans to watch Princess Connect! Michibiki no Hatsuhana: Fiore Storia</title>
             <link>https://anilist.co/anime/187236</link>
@@ -119,12 +125,6 @@
             <title>Reisonancia watched episode 9 of ♪D4DJ Petit Mix</title>
             <link>https://anilist.co/anime/128563</link>
             <pubDate>Tue, 25 Feb 2025 01:54:28 +0000</pubDate>
-            <guid>https://anilist.co/anime/128563</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 8 of ♪D4DJ Petit Mix</title>
-            <link>https://anilist.co/anime/128563</link>
-            <pubDate>Mon, 24 Feb 2025 14:06:32 +0000</pubDate>
             <guid>https://anilist.co/anime/128563</guid>
         </item>
     </channel>
