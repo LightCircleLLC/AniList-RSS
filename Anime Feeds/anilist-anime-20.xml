@@ -5,7 +5,7 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Thu, 17 Apr 2025 21:21:45 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 17 Apr 2025 22:22:25 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
         <item>
             <title>Reisonancia plans to watch Barakamon</title>
@@ -90,12 +90,6 @@
             <link>https://anilist.co/anime/147216</link>
             <pubDate>Mon, 03 Mar 2025 19:24:46 +0000</pubDate>
             <guid>https://anilist.co/anime/147216</guid>
-        </item>
-        <item>
-            <title>Reisonancia plans to watch Princess Connect! Michibiki no Hatsuhana: Fiore Storia</title>
-            <link>https://anilist.co/anime/187236</link>
-            <pubDate>Sun, 02 Mar 2025 07:52:35 +0000</pubDate>
-            <guid>https://anilist.co/anime/187236</guid>
         </item>
     </channel>
 </rss>
