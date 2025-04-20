@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList manga activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Sun, 20 Apr 2025 07:21:49 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 20 Apr 2025 08:27:15 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-manga-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia read chapter 9 of Sousou no Frieren</title>
+            <link>https://anilist.co/manga/118586</link>
+            <pubDate>Sun, 20 Apr 2025 07:48:02 +0000</pubDate>
+            <guid>https://anilist.co/manga/118586</guid>
+        </item>
         <item>
             <title>Reisonancia read chapter 8 of Sousou no Frieren</title>
             <link>https://anilist.co/manga/118586</link>
