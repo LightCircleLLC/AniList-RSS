@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Wed, 23 Apr 2025 22:23:41 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 23 Apr 2025 23:22:40 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia plans to watch Hyouka</title>
+            <link>https://anilist.co/anime/12189</link>
+            <pubDate>Wed, 23 Apr 2025 22:28:20 +0000</pubDate>
+            <guid>https://anilist.co/anime/12189</guid>
+        </item>
         <item>
             <title>Reisonancia plans to watch Barakamon</title>
             <link>https://anilist.co/anime/20722</link>
@@ -35,12 +41,6 @@
             <title>Reisonancia watched episode 10 of D4DJ All Mix</title>
             <link>https://anilist.co/anime/147216</link>
             <pubDate>Sun, 16 Mar 2025 03:09:18 +0000</pubDate>
-            <guid>https://anilist.co/anime/147216</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 9 of D4DJ All Mix</title>
-            <link>https://anilist.co/anime/147216</link>
-            <pubDate>Sat, 15 Mar 2025 20:44:05 +0000</pubDate>
             <guid>https://anilist.co/anime/147216</guid>
         </item>
     </channel>
