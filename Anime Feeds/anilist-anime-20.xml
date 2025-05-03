@@ -5,8 +5,26 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Sat, 03 May 2025 22:22:08 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 03 May 2025 23:21:49 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia watched episode 6 of Gochuumon wa Usagi desu ka?</title>
+            <link>https://anilist.co/anime/20517</link>
+            <pubDate>Sat, 03 May 2025 23:19:25 +0000</pubDate>
+            <guid>https://anilist.co/anime/20517</guid>
+        </item>
+        <item>
+            <title>Reisonancia watched episode 5 of Gochuumon wa Usagi desu ka?</title>
+            <link>https://anilist.co/anime/20517</link>
+            <pubDate>Sat, 03 May 2025 22:55:29 +0000</pubDate>
+            <guid>https://anilist.co/anime/20517</guid>
+        </item>
+        <item>
+            <title>Reisonancia watched episode 4 of Gochuumon wa Usagi desu ka?</title>
+            <link>https://anilist.co/anime/20517</link>
+            <pubDate>Sat, 03 May 2025 22:31:50 +0000</pubDate>
+            <guid>https://anilist.co/anime/20517</guid>
+        </item>
         <item>
             <title>Reisonancia watched episode 3 of Gochuumon wa Usagi desu ka?</title>
             <link>https://anilist.co/anime/20517</link>
@@ -24,12 +42,6 @@
             <link>https://anilist.co/anime/20517</link>
             <pubDate>Fri, 02 May 2025 22:48:01 +0000</pubDate>
             <guid>https://anilist.co/anime/20517</guid>
-        </item>
-        <item>
-            <title>Reisonancia plans to watch Hyouka</title>
-            <link>https://anilist.co/anime/12189</link>
-            <pubDate>Wed, 23 Apr 2025 22:28:20 +0000</pubDate>
-            <guid>https://anilist.co/anime/12189</guid>
         </item>
     </channel>
 </rss>
