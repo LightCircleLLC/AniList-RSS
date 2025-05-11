@@ -5,8 +5,20 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList manga activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Sat, 10 May 2025 23:21:21 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 11 May 2025 02:05:26 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-manga-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia read chapter 38 of Sousou no Frieren</title>
+            <link>https://anilist.co/manga/118586</link>
+            <pubDate>Sun, 11 May 2025 01:54:11 +0000</pubDate>
+            <guid>https://anilist.co/manga/118586</guid>
+        </item>
+        <item>
+            <title>Reisonancia read chapter 37 of Sousou no Frieren</title>
+            <link>https://anilist.co/manga/118586</link>
+            <pubDate>Sun, 11 May 2025 00:16:43 +0000</pubDate>
+            <guid>https://anilist.co/manga/118586</guid>
+        </item>
         <item>
             <title>Reisonancia read chapter 36 of Sousou no Frieren</title>
             <link>https://anilist.co/manga/118586</link>
@@ -77,18 +89,6 @@
             <title>Reisonancia read chapter 25 of Sousou no Frieren</title>
             <link>https://anilist.co/manga/118586</link>
             <pubDate>Thu, 01 May 2025 20:34:06 +0000</pubDate>
-            <guid>https://anilist.co/manga/118586</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 24 of Sousou no Frieren</title>
-            <link>https://anilist.co/manga/118586</link>
-            <pubDate>Wed, 30 Apr 2025 23:22:30 +0000</pubDate>
-            <guid>https://anilist.co/manga/118586</guid>
-        </item>
-        <item>
-            <title>Reisonancia read chapter 23 of Sousou no Frieren</title>
-            <link>https://anilist.co/manga/118586</link>
-            <pubDate>Wed, 30 Apr 2025 01:30:56 +0000</pubDate>
             <guid>https://anilist.co/manga/118586</guid>
         </item>
     </channel>
