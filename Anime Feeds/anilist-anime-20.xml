@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Thu, 22 May 2025 12:52:12 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 22 May 2025 13:35:43 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia plans to watch GOD EATER</title>
+            <link>https://anilist.co/anime/20849</link>
+            <pubDate>Thu, 22 May 2025 13:30:59 +0000</pubDate>
+            <guid>https://anilist.co/anime/20849</guid>
+        </item>
         <item>
             <title>Reisonancia watched episode 1 of Gochuumon wa Usagi desu ka??</title>
             <link>https://anilist.co/anime/21034</link>
