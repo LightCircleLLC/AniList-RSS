@@ -5,8 +5,20 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Tue, 03 Jun 2025 21:22:11 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jun 2025 22:24:33 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia completed Gochuumon wa Usagi desu ka? BLOOM</title>
+            <link>https://anilist.co/anime/104198</link>
+            <pubDate>Tue, 03 Jun 2025 22:14:37 +0000</pubDate>
+            <guid>https://anilist.co/anime/104198</guid>
+        </item>
+        <item>
+            <title>Reisonancia watched episode 11 of Gochuumon wa Usagi desu ka? BLOOM</title>
+            <link>https://anilist.co/anime/104198</link>
+            <pubDate>Tue, 03 Jun 2025 21:41:53 +0000</pubDate>
+            <guid>https://anilist.co/anime/104198</guid>
+        </item>
         <item>
             <title>Reisonancia watched episode 10 of Gochuumon wa Usagi desu ka? BLOOM</title>
             <link>https://anilist.co/anime/104198</link>
@@ -113,18 +125,6 @@
             <title>Reisonancia watched episode 11 of Gochuumon wa Usagi desu ka??</title>
             <link>https://anilist.co/anime/21034</link>
             <pubDate>Tue, 27 May 2025 22:11:15 +0000</pubDate>
-            <guid>https://anilist.co/anime/21034</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 10 of Gochuumon wa Usagi desu ka??</title>
-            <link>https://anilist.co/anime/21034</link>
-            <pubDate>Tue, 27 May 2025 21:45:02 +0000</pubDate>
-            <guid>https://anilist.co/anime/21034</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 9 of Gochuumon wa Usagi desu ka??</title>
-            <link>https://anilist.co/anime/21034</link>
-            <pubDate>Mon, 26 May 2025 23:16:09 +0000</pubDate>
             <guid>https://anilist.co/anime/21034</guid>
         </item>
     </channel>
