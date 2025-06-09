@@ -5,8 +5,20 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Mon, 09 Jun 2025 22:24:26 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jun 2025 23:24:05 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia watched episode 5 of Happy Sugar Life</title>
+            <link>https://anilist.co/anime/101351</link>
+            <pubDate>Mon, 09 Jun 2025 23:20:22 +0000</pubDate>
+            <guid>https://anilist.co/anime/101351</guid>
+        </item>
+        <item>
+            <title>Reisonancia watched episode 6 of Date A Live</title>
+            <link>https://anilist.co/anime/15583</link>
+            <pubDate>Mon, 09 Jun 2025 22:52:03 +0000</pubDate>
+            <guid>https://anilist.co/anime/15583</guid>
+        </item>
         <item>
             <title>Reisonancia watched episode 5 of Date A Live</title>
             <link>https://anilist.co/anime/15583</link>
@@ -113,18 +125,6 @@
             <title>Reisonancia watched episode 6 of Gochuumon wa Usagi desu ka? BLOOM</title>
             <link>https://anilist.co/anime/104198</link>
             <pubDate>Mon, 02 Jun 2025 21:50:15 +0000</pubDate>
-            <guid>https://anilist.co/anime/104198</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 5 of Gochuumon wa Usagi desu ka? BLOOM</title>
-            <link>https://anilist.co/anime/104198</link>
-            <pubDate>Fri, 30 May 2025 23:56:32 +0000</pubDate>
-            <guid>https://anilist.co/anime/104198</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 4 of Gochuumon wa Usagi desu ka? BLOOM</title>
-            <link>https://anilist.co/anime/104198</link>
-            <pubDate>Fri, 30 May 2025 23:25:42 +0000</pubDate>
             <guid>https://anilist.co/anime/104198</guid>
         </item>
     </channel>
