@@ -5,8 +5,14 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Wed, 18 Jun 2025 02:04:02 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jun 2025 03:50:32 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia plans to watch Make Heroine ga Oosugiru!</title>
+            <link>https://anilist.co/anime/171457</link>
+            <pubDate>Wed, 18 Jun 2025 03:00:11 +0000</pubDate>
+            <guid>https://anilist.co/anime/171457</guid>
+        </item>
         <item>
             <title>Reisonancia watched episode 10 of Happy Sugar Life</title>
             <link>https://anilist.co/anime/101351</link>
@@ -119,12 +125,6 @@
             <title>Reisonancia watched episode 1 of Happy Sugar Life</title>
             <link>https://anilist.co/anime/101351</link>
             <pubDate>Wed, 04 Jun 2025 23:27:41 +0000</pubDate>
-            <guid>https://anilist.co/anime/101351</guid>
-        </item>
-        <item>
-            <title>Reisonancia plans to watch Happy Sugar Life</title>
-            <link>https://anilist.co/anime/101351</link>
-            <pubDate>Wed, 04 Jun 2025 23:26:00 +0000</pubDate>
             <guid>https://anilist.co/anime/101351</guid>
         </item>
     </channel>
