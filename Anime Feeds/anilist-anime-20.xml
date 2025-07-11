@@ -5,8 +5,26 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Fri, 11 Jul 2025 21:25:03 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 22:25:42 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia watched episode 3 of Yuru Camp△</title>
+            <link>https://anilist.co/anime/98444</link>
+            <pubDate>Fri, 11 Jul 2025 22:14:49 +0000</pubDate>
+            <guid>https://anilist.co/anime/98444</guid>
+        </item>
+        <item>
+            <title>Reisonancia watched episode 2 of Yuru Camp△</title>
+            <link>https://anilist.co/anime/98444</link>
+            <pubDate>Fri, 11 Jul 2025 21:49:46 +0000</pubDate>
+            <guid>https://anilist.co/anime/98444</guid>
+        </item>
+        <item>
+            <title>Reisonancia watched episode 1 of Yuru Camp△</title>
+            <link>https://anilist.co/anime/98444</link>
+            <pubDate>Fri, 11 Jul 2025 21:25:25 +0000</pubDate>
+            <guid>https://anilist.co/anime/98444</guid>
+        </item>
         <item>
             <title>Reisonancia completed Yuru Yuri</title>
             <link>https://anilist.co/anime/10495</link>
@@ -108,24 +126,6 @@
             <link>https://anilist.co/anime/15583</link>
             <pubDate>Wed, 18 Jun 2025 22:05:53 +0000</pubDate>
             <guid>https://anilist.co/anime/15583</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 11 of Date A Live</title>
-            <link>https://anilist.co/anime/15583</link>
-            <pubDate>Wed, 18 Jun 2025 21:36:57 +0000</pubDate>
-            <guid>https://anilist.co/anime/15583</guid>
-        </item>
-        <item>
-            <title>Reisonancia plans to watch Make Heroine ga Oosugiru!</title>
-            <link>https://anilist.co/anime/171457</link>
-            <pubDate>Wed, 18 Jun 2025 03:00:11 +0000</pubDate>
-            <guid>https://anilist.co/anime/171457</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 10 of Happy Sugar Life</title>
-            <link>https://anilist.co/anime/101351</link>
-            <pubDate>Wed, 11 Jun 2025 22:52:10 +0000</pubDate>
-            <guid>https://anilist.co/anime/101351</guid>
         </item>
     </channel>
 </rss>
