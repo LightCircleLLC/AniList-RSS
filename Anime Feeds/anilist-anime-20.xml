@@ -5,8 +5,26 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Tue, 22 Jul 2025 22:25:38 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jul 2025 23:26:10 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia watched episode 4 of Moetan</title>
+            <link>https://anilist.co/anime/2367</link>
+            <pubDate>Tue, 22 Jul 2025 23:20:46 +0000</pubDate>
+            <guid>https://anilist.co/anime/2367</guid>
+        </item>
+        <item>
+            <title>Reisonancia watched episode 3 of Moetan</title>
+            <link>https://anilist.co/anime/2367</link>
+            <pubDate>Tue, 22 Jul 2025 22:57:55 +0000</pubDate>
+            <guid>https://anilist.co/anime/2367</guid>
+        </item>
+        <item>
+            <title>Reisonancia watched episode 2 of Moetan</title>
+            <link>https://anilist.co/anime/2367</link>
+            <pubDate>Tue, 22 Jul 2025 22:35:33 +0000</pubDate>
+            <guid>https://anilist.co/anime/2367</guid>
+        </item>
         <item>
             <title>Reisonancia watched episode 1 of Moetan</title>
             <link>https://anilist.co/anime/2367</link>
@@ -107,24 +125,6 @@
             <title>Reisonancia watched episode 10 of Yuru Yuri</title>
             <link>https://anilist.co/anime/10495</link>
             <pubDate>Thu, 10 Jul 2025 22:11:29 +0000</pubDate>
-            <guid>https://anilist.co/anime/10495</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 9 of Yuru Yuri</title>
-            <link>https://anilist.co/anime/10495</link>
-            <pubDate>Tue, 08 Jul 2025 23:40:37 +0000</pubDate>
-            <guid>https://anilist.co/anime/10495</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 8 of Yuru Yuri</title>
-            <link>https://anilist.co/anime/10495</link>
-            <pubDate>Tue, 08 Jul 2025 23:16:10 +0000</pubDate>
-            <guid>https://anilist.co/anime/10495</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 7 of Yuru Yuri</title>
-            <link>https://anilist.co/anime/10495</link>
-            <pubDate>Mon, 07 Jul 2025 23:26:19 +0000</pubDate>
             <guid>https://anilist.co/anime/10495</guid>
         </item>
     </channel>
