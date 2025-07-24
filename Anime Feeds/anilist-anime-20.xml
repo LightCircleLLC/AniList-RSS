@@ -5,8 +5,20 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Thu, 24 Jul 2025 22:26:30 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jul 2025 23:26:31 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia watched episode 9 of Moetan</title>
+            <link>https://anilist.co/anime/2367</link>
+            <pubDate>Thu, 24 Jul 2025 23:12:20 +0000</pubDate>
+            <guid>https://anilist.co/anime/2367</guid>
+        </item>
+        <item>
+            <title>Reisonancia watched episode 8 of Moetan</title>
+            <link>https://anilist.co/anime/2367</link>
+            <pubDate>Thu, 24 Jul 2025 22:50:30 +0000</pubDate>
+            <guid>https://anilist.co/anime/2367</guid>
+        </item>
         <item>
             <title>Reisonancia watched episode 7 of Moetan</title>
             <link>https://anilist.co/anime/2367</link>
@@ -113,18 +125,6 @@
             <title>Reisonancia watched episode 3 of Yuru Camp△</title>
             <link>https://anilist.co/anime/98444</link>
             <pubDate>Fri, 11 Jul 2025 22:14:49 +0000</pubDate>
-            <guid>https://anilist.co/anime/98444</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 2 of Yuru Camp△</title>
-            <link>https://anilist.co/anime/98444</link>
-            <pubDate>Fri, 11 Jul 2025 21:49:46 +0000</pubDate>
-            <guid>https://anilist.co/anime/98444</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 1 of Yuru Camp△</title>
-            <link>https://anilist.co/anime/98444</link>
-            <pubDate>Fri, 11 Jul 2025 21:25:25 +0000</pubDate>
             <guid>https://anilist.co/anime/98444</guid>
         </item>
     </channel>
