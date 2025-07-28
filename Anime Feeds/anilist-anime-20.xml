@@ -5,8 +5,20 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisonancia.</description>
         <language>en-gb</language>
-        <lastBuildDate>Mon, 28 Jul 2025 21:24:31 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 28 Jul 2025 22:27:53 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisonancia watched episode 2 of GOD EATER</title>
+            <link>https://anilist.co/anime/20849</link>
+            <pubDate>Mon, 28 Jul 2025 22:06:41 +0000</pubDate>
+            <guid>https://anilist.co/anime/20849</guid>
+        </item>
+        <item>
+            <title>Reisonancia watched episode 1 of GOD EATER</title>
+            <link>https://anilist.co/anime/20849</link>
+            <pubDate>Mon, 28 Jul 2025 21:33:50 +0000</pubDate>
+            <guid>https://anilist.co/anime/20849</guid>
+        </item>
         <item>
             <title>Reisonancia completed Moetan Specials</title>
             <link>https://anilist.co/anime/4421</link>
@@ -114,18 +126,6 @@
             <link>https://anilist.co/anime/2367</link>
             <pubDate>Mon, 21 Jul 2025 22:48:17 +0000</pubDate>
             <guid>https://anilist.co/anime/2367</guid>
-        </item>
-        <item>
-            <title>Reisonancia completed Yuru Camp△</title>
-            <link>https://anilist.co/anime/98444</link>
-            <pubDate>Mon, 21 Jul 2025 22:03:17 +0000</pubDate>
-            <guid>https://anilist.co/anime/98444</guid>
-        </item>
-        <item>
-            <title>Reisonancia watched episode 11 of Yuru Camp△</title>
-            <link>https://anilist.co/anime/98444</link>
-            <pubDate>Mon, 21 Jul 2025 21:39:27 +0000</pubDate>
-            <guid>https://anilist.co/anime/98444</guid>
         </item>
     </channel>
 </rss>
