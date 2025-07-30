@@ -5,8 +5,20 @@
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
         <description>The unofficial AniList anime activity feed for Reisbyfe.</description>
         <language>en-gb</language>
-        <lastBuildDate>Wed, 30 Jul 2025 21:26:18 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jul 2025 22:26:28 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-anime-20.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Reisbyfe watched episode 6 of GOD EATER</title>
+            <link>https://anilist.co/anime/20849</link>
+            <pubDate>Wed, 30 Jul 2025 22:01:27 +0000</pubDate>
+            <guid>https://anilist.co/anime/20849</guid>
+        </item>
+        <item>
+            <title>Reisbyfe watched episode 5 of GOD EATER</title>
+            <link>https://anilist.co/anime/20849</link>
+            <pubDate>Wed, 30 Jul 2025 21:37:25 +0000</pubDate>
+            <guid>https://anilist.co/anime/20849</guid>
+        </item>
         <item>
             <title>Reisbyfe watched episode 4 of GOD EATER</title>
             <link>https://anilist.co/anime/20849</link>
@@ -113,18 +125,6 @@
             <title>Reisbyfe watched episode 4 of Moetan</title>
             <link>https://anilist.co/anime/2367</link>
             <pubDate>Tue, 22 Jul 2025 23:20:46 +0000</pubDate>
-            <guid>https://anilist.co/anime/2367</guid>
-        </item>
-        <item>
-            <title>Reisbyfe watched episode 3 of Moetan</title>
-            <link>https://anilist.co/anime/2367</link>
-            <pubDate>Tue, 22 Jul 2025 22:57:55 +0000</pubDate>
-            <guid>https://anilist.co/anime/2367</guid>
-        </item>
-        <item>
-            <title>Reisbyfe watched episode 2 of Moetan</title>
-            <link>https://anilist.co/anime/2367</link>
-            <pubDate>Tue, 22 Jul 2025 22:35:33 +0000</pubDate>
             <guid>https://anilist.co/anime/2367</guid>
         </item>
     </channel>
