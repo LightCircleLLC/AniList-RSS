@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Reisonancia's Manga Activity</title>
+        <title>Reisbyfe's Manga Activity</title>
         <link>https://github.com/LightCircleLLC/AniList-RSS</link>
-        <description>The unofficial AniList manga activity feed for Reisonancia.</description>
+        <description>The unofficial AniList manga activity feed for Reisbyfe.</description>
         <language>en-gb</language>
-        <lastBuildDate>Wed, 30 Jul 2025 07:30:30 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jul 2025 08:43:18 +0000</lastBuildDate>
         <atom:link href="https://github.com/LightCircleLLC/AniList-RSSanilist-manga-20.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
